@@ -1,0 +1,139 @@
+html{
+  font-family: 'ZCOOL XiaoWei', serif !important;
+}
+.first {
+  background-image: url(images/main.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height:700px;
+  color: white;
+}
+
+.first h1 {
+  color: white;
+  text-align: center;
+  font-size: 50px;
+}
+
+.firt a {
+  color: white !important;
+}
+.social li{
+  font-size: 17px;
+  display: inline-block;
+  float:right;
+  padding-right: 1%;
+}
+
+li a{
+  color: white !important;
+}
+
+nav{
+  margin-top: 6%;
+  border-top: 1px solid white;
+}
+ .profile{
+  background: #6C8FFF;
+  border: solid 1px #6C8FFF;
+  background: linear-gradient(180deg, #6C8FFF 0%, #2A4395 35%, #09184B 100%);
+  border-radius: 10px;
+  color: white;
+  padding: .75rem 1.5rem;
+  padding: 5px 10px;
+ }
+
+ .three{
+  background: #6C8FFF;
+  border: solid 1px #6C8FFF;
+  background: linear-gradient(180deg, #6C8FFF 0%, #2A4395 35%, #09184B 100%);
+  border-radius: 10px;
+  color: white;
+  padding: .75rem 1.5rem;
+  padding: 5px 10px;
+ }
+
+ .fore {
+  background: #6C8FFF;
+  border: solid 1px #6C8FFF;
+  background: linear-gradient(180deg, #6C8FFF 0%, #2A4395 35%, #09184B 100%);
+  border-radius: 10px;
+  color: white;
+  padding: .75rem 1.5rem;
+  padding: 5px 10px;
+ }
+ .five {
+  background: #6C8FFF;
+  border: solid 1px #6C8FFF;
+  background: linear-gradient(180deg, #6C8FFF 0%, #2A4395 35%, #09184B 100%);
+  border-radius: 10px;
+  color: white;
+  padding: .75rem 1.5rem;
+  padding: 5px 10px;
+ }
+ .six {
+  background: #6C8FFF;
+  border: solid 1px #6C8FFF;
+  background: linear-gradient(180deg, #6C8FFF 0%, #2A4395 35%, #09184B 100%);
+  border-radius: 10px;
+  color: white;
+  padding: .75rem 1.5rem;
+  padding: 5px 10px;
+ }
+ .seven {
+  background: #6C8FFF;
+  border: solid 1px #6C8FFF;
+  background: linear-gradient(180deg, #6C8FFF 0%, #2A4395 35%, #09184B 100%);
+  border-radius: 10px;
+  color: white;
+  padding: .75rem 1.5rem;
+  padding: 5px 10px;
+ }
+ 
+
+ a h2 {
+   color: white;
+   text-align: center;
+ }
+
+a:hover {
+ text-decoration: none!important;
+  }
+
+  .first .profile, .first .three, .first .fore, .first .five, .first .six, .first .seven{
+   padding-right: 0px !important;
+   padding-left: 0px!important;
+  }
+
+  .profile a, .three a, .fore a, .five a, .six a, .seven a{
+    padding: 3%;
+  }
+
+  .message{
+    background-color: #222828;
+    color: #fcfdff;
+    padding: 20%;
+  }
+
+  .message a{
+    color:black!important;
+    background-color: white;
+  }
+
+  .message a{
+    text-decoration: none!important;
+
+  }
+.message button {
+  background-color: white;
+  padding: 1%;
+  border-radius: 9%;
+}
+.messages{
+  text-align: center;
+}
+div{
+  text-align: center;
+}
+
+

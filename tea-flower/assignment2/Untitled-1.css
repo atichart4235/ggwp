@@ -1,0 +1,46 @@
+h1,h2,h3,h4{
+    background-color: rgb(39, 15, 215);
+    color: black;
+}
+body{
+    background-color: rgb(233, 227, 77);
+}
+
+img{
+    width: 30%; 
+}
+
+/* Font-size */
+ul{
+    font-family: Garamond, 'Times New Roman', Times, serif;
+    font-size: 19pt;
+    font-weight:lighter;
+    font-style:oblique; 
+}
+
+
+/* Text-align */
+div{
+    text-align: center;
+}
+
+/* Text-decoration */
+th{
+    text-decoration: underline;
+}
+
+/* id and class */
+#nongmacat{
+    width: 40%; 
+}
+
+.left_page{
+    text-align: center;
+}
+
+/* context selectors */
+div a{
+    font-size: 30px;
+    font-weight: bold;
+    color: red;
+}

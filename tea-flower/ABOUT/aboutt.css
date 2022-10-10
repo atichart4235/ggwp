@@ -1,0 +1,19 @@
+h1{
+    background-color: rgb(189, 24, 73);
+    color: black;
+    text-align: center;
+}
+body{
+    background-color: rgb(154, 162, 240);
+}
+img{
+    width: 20%;
+
+}
+.about{
+    text-align: center;
+    font-size: 40px;
+}
+div{
+    text-align: center;
+}

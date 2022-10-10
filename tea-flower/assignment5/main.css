@@ -1,0 +1,29 @@
+body{
+	background-color: lavender;
+}
+
+#topic1{
+    text-align: left;
+	font-size: 35px;
+    font-weight: bold;
+    color: red;
+}
+
+#comment1{
+	text-align: left;
+	font-size: 35px;
+    font-weight: bold;
+	color: yellow;
+}
+
+#comment2{
+	text-align: left;
+	font-size: 35px;
+    font-weight: bold;
+	color: rgb(89, 243, 89);
+}
+#Area{
+	font-size: 25px;
+    font-weight: bold;
+    color: rgb(236, 50, 161);
+}
